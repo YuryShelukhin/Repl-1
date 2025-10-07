@@ -1,2 +1,2 @@
-.env
-files/mysql_repl_master_master/.env
+/.env
+/files/mysql_repl_master_master/.env
